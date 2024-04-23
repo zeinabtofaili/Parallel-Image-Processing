@@ -17,7 +17,6 @@ int main(int argc, char** argv) {
     image = read_image(argv[1]);
   }
 
-  /* Your solution here */
   Pixel* pixels;
   int width=0, height=0;
 
